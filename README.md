@@ -1,4 +1,5 @@
-### Hi there 👋
+### 잡학다식 데이터 분석가
+학창시절 경영학을 전공한 뒤 마케터와 은행업무를 거쳐 데이터 분석가를 꿈꾸고 있습니다
 
 <!--
 **qwerty1434/qwerty1434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
