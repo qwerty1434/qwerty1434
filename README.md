@@ -1,5 +1,8 @@
 ### 잡학다식 데이터 분석가
-학창시절 경영학을 전공한 뒤 마케터와 은행업무를 거쳐 데이터 분석가를 꿈꾸고 있습니다
+학창시절 경영학을 전공한 뒤 스타트업 회사와 은행에서의 근무를 거쳐 데이터 분석가를 꿈꾸고 있습니다
+다양한 곳에서의 경험을 통해 복합적인 사고력과 팀워크에 특화된 성격을 보유하고 있으며
+새로운 것을 빠르게 배우고 활용하는 데 능합니다
+
 
 <!--
 **qwerty1434/qwerty1434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
