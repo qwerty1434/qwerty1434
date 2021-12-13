@@ -3,7 +3,7 @@
 <div>다양한 곳에서의 경험으로 복합적인 사고력과 팀워크에 특화된 성격을 보유하였으며</div>
 <div>새로운 것을 배우고 시도해 보는 걸 좋아합니다</div>
   
-
+ 
 <!--
 <div>자신도 모르는 자신을 발견시켜 주는 것이 빅데이터다</div>
 **qwerty1434/qwerty1434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
