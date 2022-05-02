@@ -6,7 +6,6 @@
 <div>22년 1월부터 SSAFY에서 자바와 백엔드를 배우고 있습니다</div>
  
 <!--
-<div>자신도 모르는 자신을 발견시켜 주는 것이 빅데이터다</div>
 **qwerty1434/qwerty1434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
