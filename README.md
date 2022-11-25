@@ -1,10 +1,11 @@
 ### 성장하는 개발자 🌱
-<div>https://velog.io/@qwerty1434/series 에 공부한 내용을 기록하고 있습니다</div>
 <div>학창시절 경영학을 전공한 뒤 스타트업 회사와 은행에서의 근무를 거쳐 개발자를 꿈꾸고 있습니다</div>
-<div>다양한 곳에서의 경험으로 복합적인 사고력과 원활한 소통에 자신있으며</div>
-<div>새로운 것을 배우고 시도해 보는 걸 좋아합니다</div>
+<div>다양한 곳에서의 경험으로 복합적인 사고력과 원활한 소통에 자신있으며, 새로운 것을 배우고 시도해 보는 걸 좋아합니다</div>
 <div>22년 1월부터 SSAFY에서 자바와 백엔드를 배우고 있습니다</div>
- 
+
+<div> - <a href= "https://peach-broker-8e7.notion.site/_-d62951ca67774847a9c2973c80f36b06">포트폴리오</a></div>
+<div> - <a href= "https://velog.io/@qwerty1434/series">블로그</a></div>
+
 <!--
 **qwerty1434/qwerty1434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
