@@ -3,7 +3,7 @@
 <div>다양한 곳에서의 경험으로 복합적인 사고력과 원활한 소통에 자신있으며, 새로운 것을 배우고 시도해 보는 걸 좋아합니다</div>
 <div>22년 1월부터 SSAFY에서 자바와 백엔드를 배우고 있습니다</div>
 
-<div> - <a href= "https://peach-broker-8e7.notion.site/_-d62951ca67774847a9c2973c80f36b06">포트폴리오</a></div>
+<div> - <a href= "https://qwerty1434.notion.site/_-d62951ca67774847a9c2973c80f36b06">포트폴리오</a></div>
 <div> - <a href= "https://velog.io/@qwerty1434/series">블로그</a></div>
 
 <!--
