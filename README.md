@@ -3,8 +3,6 @@
 다양한 곳에서의 경험으로 원활한 소통에 자신있으며, 새로운 것을 배우고 시도해 보는 걸 좋아합니다.  
 삼성청년SW아카데미 교육을 수료했으며(22.01 ~ 22.12) JVM기반의 Java와 Kotlin으로 개발을 진행합니다.
 
-<div> - <a href= "https://qwerty1434.notion.site/_-d62951ca67774847a9c2973c80f36b06">포트폴리오</a></div>
-<div> - <a href= "https://velog.io/@qwerty1434/series">블로그</a></div>
 
 <!--
 **qwerty1434/qwerty1434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
